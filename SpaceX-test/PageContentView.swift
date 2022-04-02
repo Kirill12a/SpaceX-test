@@ -33,9 +33,9 @@ struct PageContentView: View {
             .overlay{
               VStack{
                 HStack{
-                Text(title)
-                  .font(.title3)
-                  .padding(.top, 20)
+                  Text(title)
+                    .font(.title3)
+                    .padding(.top, 20)
                   Spacer()
 
                   Button {
@@ -54,7 +54,7 @@ struct PageContentView: View {
                   ParametrsViewElement()
                   ParametrsViewElement()
 
-                 
+
 
                 }
                 Spacer()
