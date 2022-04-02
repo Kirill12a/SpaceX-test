@@ -18,12 +18,12 @@ struct ContentView: View {
     var body: some View {
         VStack {
             TabView {
-              PageContentView(image: "pencil.and.outline", title: "FDS", allText: "fdsf")
-              PageContentView(image: "lasso.and.sparkles", title: "fsd", allText: "fs")
-              PageContentView(image: "folder.fill", title: "fds", allText: "fs")
+              PageContentView(image: "test", title: "Falcon Heavy")
+              PageContentView(image: "test", title: "fsd")
+              PageContentView(image: "test", title: "fds")
             }
             .tabViewStyle(PageTabViewStyle(indexDisplayMode: .always))
-            .padding(.bottom, 40)
+            .ignoresSafeArea()
         }
     }
 }

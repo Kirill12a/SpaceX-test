@@ -12,6 +12,7 @@
 		D2AE7A2C27F8BD7600EABF44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2AE7A2B27F8BD7600EABF44 /* Assets.xcassets */; };
 		D2AE7A2F27F8BD7600EABF44 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2AE7A2E27F8BD7600EABF44 /* Preview Assets.xcassets */; };
 		D2AE7A3627F8BDFA00EABF44 /* PageContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AE7A3527F8BDFA00EABF44 /* PageContentView.swift */; };
+		D2AE7A5C27F8E94400EABF44 /* ParametrsViewElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AE7A5B27F8E94400EABF44 /* ParametrsViewElement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		D2AE7A2B27F8BD7600EABF44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2AE7A2E27F8BD7600EABF44 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D2AE7A3527F8BDFA00EABF44 /* PageContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageContentView.swift; sourceTree = "<group>"; };
+		D2AE7A5B27F8E94400EABF44 /* ParametrsViewElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParametrsViewElement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				D2AE7A2727F8BD7500EABF44 /* pageControllerTestApp.swift */,
 				D2AE7A2927F8BD7500EABF44 /* ContentView.swift */,
 				D2AE7A3527F8BDFA00EABF44 /* PageContentView.swift */,
+				D2AE7A5B27F8E94400EABF44 /* ParametrsViewElement.swift */,
 				D2AE7A2B27F8BD7600EABF44 /* Assets.xcassets */,
 				D2AE7A2D27F8BD7600EABF44 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D2AE7A2A27F8BD7500EABF44 /* ContentView.swift in Sources */,
+				D2AE7A5C27F8E94400EABF44 /* ParametrsViewElement.swift in Sources */,
 				D2AE7A3627F8BDFA00EABF44 /* PageContentView.swift in Sources */,
 				D2AE7A2827F8BD7500EABF44 /* pageControllerTestApp.swift in Sources */,
 			);
